@@ -9,3 +9,4 @@ I added geocodes(Google Map API) to data from Sean Lahman's Baseball Database (S
 
 The broad criteria for selection for players was based on pension minimum service of 43 days in the majors to earn a minimum annual pension plan (2011). 
 [See http://rpubs.com/FemmeVerve/61987]
+[https://scenicverve.shinyapps.io/SFGIANTSRostershinyapp/]
