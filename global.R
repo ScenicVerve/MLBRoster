@@ -1,0 +1,5 @@
+library(shiny)
+NLData <- read.csv('NLData.csv')
+library(maps)
+library(mapdata)
+options(shiny.maxRequestSize = -1)
